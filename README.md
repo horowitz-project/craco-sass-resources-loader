@@ -1,3 +1,5 @@
+# Be careful! This fork has untested modifications made fast to fix peer deps problems!
+
 # Craco sass-resources-loader
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
